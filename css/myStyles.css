@@ -1,0 +1,36 @@
+.background {
+  background-color: beige;
+}
+
+p {
+  color: brown;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 5px;
+}
+
+.common {
+  color: brown;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer {
+  background-color: #D3D3D3;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.spacing {
+  padding: 5px 0;
+  margin: 5px;
+}
+
+.centered {
+  width: 50%;
+  margin: 5px auto;
+  padding: 5px auto;
+  background-color: #D3D3D3;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
